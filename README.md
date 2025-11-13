@@ -41,7 +41,7 @@ https://dsa-analyzer-and-tracker.vercel.app/
 
 ## Developed By 👦
 
-<h2 align="center">PRABAL JAIN</h2>
+<h2 align="center">ANSHUL GUPTA</h2>
 <p align="center">
   <a href="https://github.com/kulprb"><img src="https://www.facebook.com/share/178VbzKDot/" width=150px height=150px  alt="Aditya Bhardwaj"/></a> 
 
